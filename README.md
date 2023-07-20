@@ -15,4 +15,4 @@ fica a seu critério;
 • Publique o projeto na Vercel e envie o link através da
 plataforma da EBAC.
 
-Vercel: 
+Vercel: https://best-movies-three.vercel.app/?vercelToolbarCode=dQE9K-ekZEYoNAZ
